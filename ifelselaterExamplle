@@ -1,0 +1,17 @@
+public class student{//class name
+    
+    public static void main(String[] args) { //mondatory statement
+
+    String job = "salary is 3000$";  
+    if(job == "salary is 3000$") {  //declaration
+    System.out.println("Middle income");  //output
+    }else if (job == "Clerk") {  //declaration
+    System.out.println("Low income");  //output
+    }else if(job == "Solopreneur") {  //declaration
+    System.out.println("Variable income");//output
+    }else {  
+
+    System.out.println("Your salary is not awesome");  //output
+    }
+}
+}

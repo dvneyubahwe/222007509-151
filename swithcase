@@ -1,0 +1,15 @@
+public class letter{//class name
+    public static void main (String arg[]){//mondatory statement
+
+swith(letter){ //switch condition
+    case A:system.out.println("A");//output
+    break;
+    case B :system.out.println("B");//output
+    break;
+    case C:system.out.print("C");//output
+    break;
+    default:System.out.println("not in A,B,C");//default
+
+}
+}
+}
